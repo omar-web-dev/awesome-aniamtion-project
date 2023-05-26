@@ -4,7 +4,7 @@ function App() {
 
   return (
     <>
-      <h1>This is a react app</h1>
+      <h1>Add tailwind css fresh code using other project using vite and react app </h1>
     </>
   )
 }
